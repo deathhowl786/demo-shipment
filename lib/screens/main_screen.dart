@@ -77,7 +77,7 @@ class _MainScreenState extends State<MainScreen> {
             ),
           ),
 
-          Row(
+          Column(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             children: [
               SizedBox(
